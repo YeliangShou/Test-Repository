@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Appreciate me
 Conflict
+=======
+Appreciate mefsdfs
+>>>>>>> Stashed changes
